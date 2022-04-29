@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devien George</h1>
-<h3 align="center">A passionate frontend developer from Egypt, with 1 Year Exp. in building a Full-Stack Websites and Apps for mobile</h3>
+<h1 align="left">Hi 👋, I'm Devien George</h1>
+<h3 align="left">A passionate Full Stack developer from Egypt, with 1 Year Exp.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deviengeorge&label=Profile%20views&color=0e75b6&style=flat" alt="deviengeorge" /> </p>
 
