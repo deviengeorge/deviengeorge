@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Remotion, GoLang, Elixir**
 
-- 🤝 I’m looking for help with **HashCash**
-
 - 💬 Ask me about **React, Vue, Angular, Laravel, Python, Django, MongoDB**
 
 - 📫 How to reach me **deviengeorge99@gmail.com**
