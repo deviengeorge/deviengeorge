@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/devo_george" target="blank"><img src="https://img.shields.io/twitter/follow/devo_george?logo=twitter&style=for-the-badge" alt="devo_george" /></a> </p>
 
-- 🔭 I’m currently working on **Stallion AI - Project Geminai**
+- 🔭 I’m currently working on **Personal Bussiness - Hessah App**
 
-- 🌱 I’m currently learning **Remotion, GoLang, Gin Gonic, Elixir**
+- 🌱 I’m currently learning **PHP, Laravel**
 
-- 💬 Ask me about **React, Vue, Angular, Laravel, Python, Django, PostgreSQL, MongoDB**
+- 💬 Ask me about **React, Vue, Angular, Laravel, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **deviengeorge99@gmail.com**
 
