@@ -8,7 +8,7 @@ Based in Cairo, Egypt. Currently building [ALReserve](https://github.com/devieng
 
 - Build multi-tenant systems serving **1,000+ daily users** across **24 organizations**
 - Architect full-stack platforms with Laravel, React, Next.js, Vue, and TypeScript
-- Teach and mentor — **70+ students** across 5+ institutions in full-stack development
+- Teach and mentor — **300+ students** across private and group sessions in full-stack development
 - Design CI/CD pipelines, Docker deployments, and scalable infrastructure
 
 ### Tech
