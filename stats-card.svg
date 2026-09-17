@@ -1,0 +1,21 @@
+<svg width="700" height="140" viewBox="0 0 700 140" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0.5" y="0.5" width="699" height="139" rx="10" fill="#0c0a09" stroke="#292524"/>
+  <text x="30" y="34" font-size="15" font-weight="600" fill="#a8a29e" letter-spacing="2">GITHUB SIGNAL</text>
+
+  <g transform="translate(30,60)">
+    <text x="0" y="30" font-size="34" font-weight="700" fill="#d97706">2,075</text>
+    <text x="0" y="54" font-size="13" fill="#78716c">Contributions</text>
+  </g>
+  <g transform="translate(220,60)">
+    <text x="0" y="30" font-size="34" font-weight="700" fill="#fafaf9">41</text>
+    <text x="0" y="54" font-size="13" fill="#78716c">Repositories</text>
+  </g>
+  <g transform="translate(390,60)">
+    <text x="0" y="30" font-size="34" font-weight="700" fill="#fafaf9">20</text>
+    <text x="0" y="54" font-size="13" fill="#78716c">Followers</text>
+  </g>
+  <g transform="translate(560,60)">
+    <text x="0" y="30" font-size="34" font-weight="700" fill="#fafaf9">2</text>
+    <text x="0" y="54" font-size="13" fill="#78716c">Stars</text>
+  </g>
+</svg>

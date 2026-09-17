@@ -80,6 +80,15 @@ Client repos are private — full case studies (architecture, challenges, impact
 
 <br>
 
+## Signal
+
+<p align="center">
+<img src="stats-card.svg" alt="GitHub signal" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=deviengeorge&background=0c0a09&ring=d97706&fire=d97706&currStreakLabel=e7e5e4&sideNums=e7e5e4&sideLabels=e7e5e4&dates=78716c&currStreakNum=fafaf9&border=292524&border_radius=10" alt="GitHub streak" width="49%" />
+</p>
+
+<br>
+
 <div align="center">
 
 Open to remote full-stack roles, contract work, and technical consulting.
