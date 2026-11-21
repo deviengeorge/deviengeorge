@@ -68,7 +68,7 @@ Client repos are private — full case studies (architecture, challenges, impact
 | **[ALReserve](https://alreserve.com)** (live) | Luxury booking platform for GCC travelers, multi-provider hotel supply | React 19, Bun, TypeScript, PostgreSQL, Redis, Meilisearch |
 | **[Regional Church System](https://deviengeorge.me/projects/regional-church-system)** | Multi-tenant platform for 24 churches, 1K+ daily users | Laravel, FilamentPHP, React, MySQL, Docker |
 | **[Hessah System](https://deviengeorge.me/projects/hessah-system)** | EdTech SaaS for private tutors | Laravel, FilamentPHP, Livewire |
-| **Nassaq (نسق)** | Graduation project (rated Excellent): Arabic exam-timetabling desktop app for the Faculty of Science exam office. Source is private. | Python, OR-Tools CP-SAT, FastAPI, React, Tauri |
+| **Nassaq (نسق)** | Graduation project (rated Excellent): Arabic exam-timetabling desktop app for the Faculty of Science exam office. Cut final-exam scheduling from about 4 weeks to under 3 minutes. Source is private. | Python, OR-Tools CP-SAT, FastAPI, React, Tauri |
 
 <br>
 
