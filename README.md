@@ -21,7 +21,7 @@ Cairo, Egypt · [deviengeorge.me](https://deviengeorge.me)
 
 - Bun monorepo: **React 19 + Vite** front end, a **TypeScript API** going through a clean-architecture rewrite
 - PostgreSQL (PostGIS) + Redis + Meilisearch, provider-adapter integrations against Hotelbeds/RateHawk behind one normalized booking layer
-- Self-hosted delivery: Coolify + Traefik, Woodpecker CI running path-filtered lint/typecheck/test per workspace, Prometheus + Grafana
+- Self-hosted delivery: Coolify + Traefik, Woodpecker CI running path-filtered lint/typecheck/test per workspace, Prometheus + Grafana (30-day uptime: 100% website, 99.99% API)
 
 Also running full-stack Laravel/Filament contracts, and mentoring 300+ students across 5 institutions.
 
