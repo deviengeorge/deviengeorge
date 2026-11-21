@@ -17,7 +17,7 @@ Cairo, Egypt · [deviengeorge.me](https://deviengeorge.me)
 
 ## Currently building
 
-**[ALReserve](https://deviengeorge.me/projects/alreserve)** — a membership-based luxury accommodation booking platform for GCC travelers heading to the UK, USA, and Europe.
+**[ALReserve](https://alreserve.com)** ([case study](https://deviengeorge.me/projects/alreserve)) — a live membership-based luxury accommodation booking platform for GCC travelers heading to the UK, USA, and Europe.
 
 - Bun monorepo: **React 19 + Vite** front end, a **TypeScript API** going through a clean-architecture rewrite
 - PostgreSQL (PostGIS) + Redis + Meilisearch, provider-adapter integrations against Hotelbeds/RateHawk behind one normalized booking layer
@@ -65,7 +65,7 @@ Client repos are private — full case studies (architecture, challenges, impact
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ALReserve](https://deviengeorge.me/projects/alreserve)** | Luxury booking platform for GCC travelers, multi-provider hotel supply | React 19, Bun, TypeScript, PostgreSQL, Redis, Meilisearch |
+| **[ALReserve](https://alreserve.com)** (live) | Luxury booking platform for GCC travelers, multi-provider hotel supply | React 19, Bun, TypeScript, PostgreSQL, Redis, Meilisearch |
 | **[Regional Church System](https://deviengeorge.me/projects/regional-church-system)** | Multi-tenant platform for 24 churches, 1K+ daily users | Laravel, FilamentPHP, React, MySQL, Docker |
 | **[Hessah System](https://deviengeorge.me/projects/hessah-system)** | EdTech SaaS for private tutors | Laravel, FilamentPHP, Livewire |
 | **Nassaq (نسق)** | Graduation project (rated Excellent): Arabic exam-timetabling desktop app for the Faculty of Science exam office. Source is private. | Python, OR-Tools CP-SAT, FastAPI, React, Tauri |
