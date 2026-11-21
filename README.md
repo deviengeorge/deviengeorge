@@ -2,7 +2,7 @@
 
 ![Devien George](https://capsule-render.vercel.app/api?type=rect&color=0c0a09&height=170&section=header&text=Devien%20George&fontSize=48&fontColor=fafaf9&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descAlignY=68&descSize=18&descColor=d97706)
 
-**Devien George** is a full-stack software engineer based in Cairo, Egypt, with 4+ years building production web platforms in React, Node.js, TypeScript, and PHP/Laravel — from multi-tenant SaaS to luxury travel booking. Computer Science student at Helwan University.
+**Devien George** is a full-stack software engineer based in Cairo, Egypt, with 4+ years building production web platforms in React, Node.js, TypeScript, and PHP/Laravel — from multi-tenant SaaS to luxury travel booking. Computer Science graduate of Helwan University (2026).
 
 Cairo, Egypt · [deviengeorge.me](https://deviengeorge.me)
 
@@ -68,6 +68,7 @@ Client repos are private — full case studies (architecture, challenges, impact
 | **[ALReserve](https://deviengeorge.me/projects/alreserve)** | Luxury booking platform for GCC travelers, multi-provider hotel supply | React 19, Bun, TypeScript, PostgreSQL, Redis, Meilisearch |
 | **[Regional Church System](https://deviengeorge.me/projects/regional-church-system)** | Multi-tenant platform for 24 churches, 1K+ daily users | Laravel, FilamentPHP, React, MySQL, Docker |
 | **[Hessah System](https://deviengeorge.me/projects/hessah-system)** | EdTech SaaS for private tutors | Laravel, FilamentPHP, Livewire |
+| **Nassaq (نسق)** | Graduation project (rated Excellent): Arabic exam-timetabling desktop app for the Faculty of Science exam office. Source is private. | Python, OR-Tools CP-SAT, FastAPI, React, Tauri |
 
 <br>
 
@@ -76,6 +77,7 @@ Client repos are private — full case studies (architecture, challenges, impact
 | Repo | What it is |
 |---|---|
 | [**sshm**](https://github.com/deviengeorge/sshm) | Bitwarden-powered SSH manager — interactive selection, tunnel presets, multi-hop |
+| [**taswib**](https://github.com/deviengeorge/taswib) | Windows tray app that fixes text typed in the wrong keyboard layout (Arabic ⇄ English), with auto-update |
 | [**dotfiles**](https://github.com/deviengeorge/dotfiles) | Arch Linux + Hyprland + Noctalia Shell config, managed with GNU Stow |
 
 <br>
