@@ -29,33 +29,13 @@ Also running full-stack Laravel/Filament contracts, and mentoring 300+ students 
 
 ## Tech
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+**Backend:** Laravel, FilamentPHP, Livewire, Node.js (AdonisJS, Express), TypeScript, C# / .NET 8
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Frontend:** React, Next.js, Vue.js / Nuxt, Angular, Tailwind CSS
 
-**Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+**Data:** PostgreSQL, MySQL, Redis, Meilisearch
 
-**DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B46F6?style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**DevOps:** Docker, Coolify, Traefik, Woodpecker CI, GitHub Actions, Jenkins, Kubernetes, Prometheus, Grafana
 
 <br>
 
@@ -79,15 +59,6 @@ Client repos are private — full case studies (architecture, challenges, impact
 | [**sshm**](https://github.com/deviengeorge/sshm) | Bitwarden-powered SSH manager — interactive selection, tunnel presets, multi-hop |
 | [**taswib**](https://github.com/deviengeorge/taswib) | Windows tray app that fixes text typed in the wrong keyboard layout (Arabic ⇄ English), with auto-update |
 | [**dotfiles**](https://github.com/deviengeorge/dotfiles) | Arch Linux + Hyprland + Noctalia Shell config, managed with GNU Stow |
-
-<br>
-
-## Signal
-
-<p align="center">
-<img src="stats-card.svg" alt="GitHub signal" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=deviengeorge&background=0c0a09&ring=d97706&fire=d97706&currStreakLabel=e7e5e4&sideNums=e7e5e4&sideLabels=e7e5e4&dates=78716c&currStreakNum=fafaf9&border=292524&border_radius=10" alt="GitHub streak" width="49%" />
-</p>
 
 <br>
 
