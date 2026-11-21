@@ -2,7 +2,7 @@
 
 ![Devien George](https://capsule-render.vercel.app/api?type=rect&color=0c0a09&height=170&section=header&text=Devien%20George&fontSize=48&fontColor=fafaf9&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descAlignY=68&descSize=18&descColor=d97706)
 
-4+ years building and scaling production web platforms — from multi-tenant SaaS to luxury travel booking.
+**Devien George** is a full-stack software engineer based in Cairo, Egypt, with 4+ years building production web platforms in React, Node.js, TypeScript, and PHP/Laravel — from multi-tenant SaaS to luxury travel booking. Computer Science student at Helwan University.
 
 Cairo, Egypt · [deviengeorge.me](https://deviengeorge.me)
 
