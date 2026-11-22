@@ -35,7 +35,7 @@ Also running full-stack Laravel/Filament contracts, and mentoring 300+ students 
 
 **Data:** PostgreSQL, MySQL, Redis, Meilisearch
 
-**DevOps:** Docker, Coolify, Traefik, Woodpecker CI, GitHub Actions, Jenkins, Kubernetes, Prometheus, Grafana
+**DevOps:** Docker, Coolify, Traefik, Woodpecker CI, GitHub Actions, Prometheus, Grafana
 
 <br>
 
