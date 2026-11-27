@@ -56,8 +56,8 @@ Client repos are private — full case studies (architecture, challenges, impact
 
 | Repo | What it is |
 |---|---|
-| [**sshm**](https://github.com/deviengeorge/sshm) | Bitwarden-powered SSH manager — interactive selection, tunnel presets, multi-hop |
-| [**taswib**](https://github.com/deviengeorge/taswib) | Windows tray app that fixes text typed in the wrong keyboard layout (Arabic ⇄ English), with auto-update |
+| [**sshm**](https://github.com/deviengeorge/sshm) | Bitwarden-powered SSH manager — interactive selection, tunnel presets, multi-hop ([case study](https://deviengeorge.me/projects/sshm)) |
+| [**taswib**](https://github.com/deviengeorge/taswib) | Windows tray app that fixes text typed in the wrong keyboard layout (Arabic ⇄ English), with auto-update ([case study](https://deviengeorge.me/projects/taswib)) |
 | [**dotfiles**](https://github.com/deviengeorge/dotfiles) | Arch Linux + Hyprland + Noctalia Shell config, managed with GNU Stow |
 
 <br>
